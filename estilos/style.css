@@ -39,6 +39,8 @@ iframe#tela {
     left: 21.5px;
     height: 470px;
     width: 267.8px;
+    background-size: cover;
+    background-attachment: fixed;
 }
 
 section#redes-sociais {
